@@ -1,6 +1,6 @@
 module.exports = function (app) {
     const mysql = require('mysql');
-    return mysql.createPool({
+    return () => mysql.createPool({
 	    'connectionLimit': 10,
 	    'host': process.env.DB_HOST,
 	    'user': process.env.DB_USER,
