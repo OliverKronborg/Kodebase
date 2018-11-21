@@ -1,6 +1,6 @@
 {
   "name": "kodebase",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "main": "server.js",
   "dependencies": {
     "body-parser": "^1.18.3",
