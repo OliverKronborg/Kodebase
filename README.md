@@ -1,4 +1,9 @@
 # Kodebase
+
+![GitHub package version](https://img.shields.io/github/package-json/v/kimax89/kodebase.svg?style=for-the-badge)
+![GitHub](https://img.shields.io/github/license/kimax89/kodebase.svg?style=for-the-badge)
+![GitHub top language](https://img.shields.io/github/languages/top/Kimax89/Kodebase.svg?style=for-the-badge)
+
 [Changelog](./CHANGELOG.md)
 
 Denne kodebase kræver NodeJS og NPM for at virke.
