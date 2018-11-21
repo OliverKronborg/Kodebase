@@ -1,8 +1,8 @@
 # Kodebase
 
-![GitHub package version](https://img.shields.io/github/package-json/v/kimax89/kodebase.svg?style=for-the-badge)
-![GitHub](https://img.shields.io/github/license/kimax89/kodebase.svg?style=for-the-badge)
-![GitHub top language](https://img.shields.io/github/languages/top/Kimax89/Kodebase.svg?style=for-the-badge)
+[![GitHub package version](https://img.shields.io/github/package-json/v/kimax89/kodebase.svg?style=for-the-badge)](./package.json)
+[![GitHub](https://img.shields.io/github/license/kimax89/kodebase.svg?style=for-the-badge)](./LICENSE.txt)
+[![GitHub top language](https://img.shields.io/github/languages/top/Kimax89/Kodebase.svg?style=for-the-badge)]()
 
 [Changelog](./CHANGELOG.md)
 
@@ -16,3 +16,6 @@ For at klargøre og indstallere nødvendige pakker skal du bruge føljende komma
 ```console
 npm install
 ```
+
+![https://i.creativecommons.org/l/by/3.0/88x31.png](./LICENSE.txt)  
+This work is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/)
