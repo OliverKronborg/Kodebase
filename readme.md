@@ -1,4 +1,5 @@
 # Kodebase
+[Changelog](./CHANGELOG.md)
 
 Denne kodebase kræver NodeJS og NPM for at virke.
 
