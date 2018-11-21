@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.1.4] - 2018-11-21
+## Changed
+- Corrected License in README.md
+
 ## [0.1.3] - 2018-11-21
 ## Added
 -LICENSE.txt
@@ -17,7 +21,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [0.1.1] - 2018-11-21
 ### Added
 - CHANGELOG.md
-## Changes
+## Changed
 - Renamed readme.md to README.md
 
 ## [0.1.0] - 2018-11-20
