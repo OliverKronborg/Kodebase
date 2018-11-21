@@ -17,5 +17,5 @@ For at klargøre og indstallere nødvendige pakker skal du bruge føljende komma
 npm install
 ```
 
-[![Creative Commons License](https://i.creativecommons.org/l/by/3.0/88x31.png)](./LICENSE.txt)  
+[![Creative Commons License](https://i.creativecommons.org/l/by/3.0/88x31.png)](./LICENSE.txt)
 This work is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/)
