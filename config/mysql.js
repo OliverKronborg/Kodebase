@@ -1,4 +1,4 @@
-module.exports = function (app) {
+module.exports = (function (app) {
     const mysql = require('mysql');
     return () => mysql.createPool({
 	    'connectionLimit': 10,
@@ -7,4 +7,4 @@ module.exports = function (app) {
 	    'password': process.env.DB_PSWD,
 	    'database': process.env.DB_DTBS
     });
-};
+}());
